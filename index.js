@@ -18,6 +18,8 @@ document.addEventListener("DOMContentLoaded", () => {
             name: "Tonkotsu Ramen",
             restaurant: "Ramen-ya",
             image: "./images/tonkotsu.jpg",
+            rating: 5,
+            comment: "Creamy and flavorful!"
         }
     ];
 
